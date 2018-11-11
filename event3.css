@@ -16,6 +16,7 @@
   background-image: url("http://www.freakingnews.com/pictures/43000/Crying-tomato--43074.jpg");
   background-position: center;
   background-size: contain;
+  margin-left: 300px;
 }
 
 .lettuce {
@@ -24,6 +25,7 @@
   background-image: url("https://i.pinimg.com/originals/d6/08/97/d60897bcc01a7331ac7190a36792a183.jpg");
   background-position: center;
   background-size: contain;
+  margin-left: 300px;
 }
 
 .corn {
@@ -32,6 +34,7 @@
   background-image: url("https://i.ytimg.com/vi/K2PlmKWi1DY/hqdefault.jpg");
   background-position: center;
   background-size: contain;
+  margin-left: 300px;
 }
 
 .hiding {
@@ -40,6 +43,7 @@
   background-image: url("http://www.clker.com/cliparts/e/9/b/a/14985583521483210532funny-question-mark.hi.png");
   background-position: center;
   background-size: contain;
+  margin-left: 300px;
 }
 .quizname {
   font-size: 30px;
@@ -70,9 +74,7 @@ body {
   margin-left: 300px;
   width: 500px;
 }
-.hiding {
-  margin-left: 300px;
-}
+
 .daform {
   margin-left: 300px;
 }
