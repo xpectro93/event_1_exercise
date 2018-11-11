@@ -1,0 +1,47 @@
+.tomato {
+  height: 500px;
+  width: 500px;
+  background-image: url("http://www.freakingnews.com/pictures/43000/Crying-tomato--43074.jpg");
+  background-position: center;
+  background-size: contain;
+}
+
+.lettuce {
+  height: 500px;
+  width: 500px;
+  background-image: url("https://i.pinimg.com/originals/d6/08/97/d60897bcc01a7331ac7190a36792a183.jpg");
+  background-position: center;
+  background-size: contain;
+}
+
+.corn {
+  height: 500px;
+  width: 500px;
+  background-image: url("https://i.ytimg.com/vi/K2PlmKWi1DY/hqdefault.jpg");
+  background-position: center;
+  background-size: contain;
+}
+
+.hiding {
+  height: 500px;
+  width: 500px;
+  background-image: url("http://www.clker.com/cliparts/e/9/b/a/14985583521483210532funny-question-mark.hi.png");
+  background-position: center;
+  background-size: contain;
+}
+.quizname {
+  font-size: 30px;
+  font-family: monospace;
+  color: red;
+}
+#submit {
+  width: 250px;
+  height: 100px;
+  font-size: 30px;
+  background-color: red;
+  color: white;
+}
+body {
+  display: flex;
+  align-items: center;
+}
