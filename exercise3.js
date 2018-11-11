@@ -21,13 +21,12 @@ document.addEventListener("DOMContentLoaded", () => {
     result.innerHTML = answer;
     if (answer <= -2) {
       result.innerHTML = `<h1>You're a tomato \n
-                          Congratz
-                          on wasting your time with this quiz </h1>  `;
+                          Congratz on wasting your time with this quiz </h1>  `;
       changec(lepic);
     } else if (answer === 1 || answer === -1 || answer === 0) {
       result.innerHTML = `<h1>You got secret option CORN \n
                           You should feel proud....but dont.\n
-                          cause you still wasted time doing this quiz :) </h1>`;
+                          You still wasted time doing this quiz :) </h1>`;
       changea(lepic);
     } else if (answer >= 2) {
       result.innerHTML = `<h1>Looks like you're a lettuce\n

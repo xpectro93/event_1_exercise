@@ -40,8 +40,15 @@
   font-size: 30px;
   background-color: red;
   color: white;
+  margin-left: 150px;
+}
+#submit:hover {
+  background-color: maroon;
 }
 body {
-  display: flex;
-  align-items: center;
+  margin-left: 300px;
+}
+.questions {
+  color: blue;
+  font-family: monospace;
 }
